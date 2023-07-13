@@ -1,4 +1,5 @@
 import React from "react";
+import Image3 from "../../assets/images/PortfolioHeadshot.jpg";
 
 export default function AboutMe() {
   return (
@@ -36,6 +37,9 @@ export default function AboutMe() {
         merge his creative vision and technical abilities to develop innovative
         applications that seamlessly integrate aesthetics and functionality.
       </p>
+      
+      <img src={Image3} alt="Omar Garcia" height="15%" width="15%" />
     </div>
+    
   );
 }
