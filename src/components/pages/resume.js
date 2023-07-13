@@ -8,7 +8,7 @@ export default function ResumeSection() {
             <h2>Resume</h2>
             <p>Download my resume:</p>
             <a href="" download>
-                Download Resume
+                Comming Soon!
             </a>
             <h3>Proficiencies:</h3>
             <ul>
