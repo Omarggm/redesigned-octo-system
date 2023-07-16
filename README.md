@@ -67,4 +67,4 @@ For any inquiries or to get in touch, you can reach me via:
 
 - Email: [Omarggm@gmail.com](mailto:Omarggm@gmail.com)
 - GitHub: [Omarggm](https://github.com/Omarggm)
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/omar-garcia-3b8a43101)https://www.linkedin.com/in/omar-garcia-3b8a43101)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/omar-garcia-3b8a43101/)
