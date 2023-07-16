@@ -65,6 +65,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 For any inquiries or to get in touch, you can reach me via:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: [Omarggm@gmail.com](mailto:Omarggm@gmail.com)
+- GitHub: [Omarggm](https://github.com/Omarggm)
+- LinkedIn: [My LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/omar-garcia-3b8a43101)https://www.linkedin.com/in/omar-garcia-3b8a43101)
