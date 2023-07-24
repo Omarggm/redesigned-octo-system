@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2d7ee84b.js",
+    "static/media/PortfolioHeadshot.jpg": "/static/media/PortfolioHeadshot.dab81dcbe1d48f507747.jpg",
+    "static/media/GetGoodGame.png": "/static/media/GetGoodGame.ee0a54f26fe062af9c0d.png",
+    "static/media/BBBB.png": "/static/media/BBBB.e19f91003db7c639a3a5.png",
+    "index.html": "/index.html",
+    "main.2d7ee84b.js.map": "/static/js/main.2d7ee84b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2d7ee84b.js"
+  ]
+}
