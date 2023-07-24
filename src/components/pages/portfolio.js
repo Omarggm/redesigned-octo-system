@@ -13,7 +13,7 @@ export default function Portfolio() {
       githubUrl: "https://github.com/Frank-Colorado/get-good-games",
     },
     {
-      name: "Project 2",
+      name: "Bikini Bottom Booking",
       description:
         "A webapp to order food from The Krusty Krab or The Chum Bucket.",
       image: Image2,
