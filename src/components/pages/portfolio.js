@@ -1,4 +1,5 @@
 import React from "react";
+import "../../assets/styles/portfolio.css";
 import Image1 from "../../assets/images/GetGoodGame.png";
 import Image2 from "../../assets/images/BBBB.png";
 
