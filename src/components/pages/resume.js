@@ -1,4 +1,5 @@
 import React from "react";
+import "../../assets/styles/resume.css";
 
 export default function ResumeSection() {
   const proficiencies = ["Javascript", "React", "HTML", "Node.js"];
