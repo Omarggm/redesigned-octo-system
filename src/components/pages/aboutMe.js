@@ -3,7 +3,7 @@ import Image3 from "../../assets/images/PortfolioHeadshot.jpg";
 
 export default function AboutMe() {
   return (
-    <div>
+    <div className="container">
       <h1>About Me</h1>
       <p>
         Omar Garcia is a passionate coder and aspiring full-stack developer
@@ -37,9 +37,8 @@ export default function AboutMe() {
         merge his creative vision and technical abilities to develop innovative
         applications that seamlessly integrate aesthetics and functionality.
       </p>
-      
+
       <img src={Image3} alt="Omar Garcia" height="15%" width="15%" />
     </div>
-    
   );
 }

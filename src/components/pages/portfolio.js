@@ -2,7 +2,6 @@ import React from "react";
 import Image1 from "../../assets/images/GetGoodGame.png";
 import Image2 from "../../assets/images/BBBB.png";
 
-
 export default function Portfolio() {
   const projects = [
     {
@@ -14,7 +13,8 @@ export default function Portfolio() {
     },
     {
       name: "Project 2",
-      description: "A webapp to order food from The Krusty Krab or The Chum Bucket.",
+      description:
+        "A webapp to order food from The Krusty Krab or The Chum Bucket.",
       image: Image2,
       deployedUrl: "https://bbbooking.herokuapp.com/",
       githubUrl: "https://github.com/Omarggm/BikiniBottomBooking",
@@ -50,13 +50,13 @@ export default function Portfolio() {
   ];
 
   return (
-    <div>
+    <div className="container">
       <h1>Portfolio</h1>
       <div className="projects">
         {projects.map((project, index) => (
           <div className="project" key={index}>
             <h3>{project.name}</h3>
-            <img src={project.image} alt={project.name} />
+            <img src={project.image} alt={project.name} height="15%" width="15%" />
             <p>{project.description}</p>
             <a
               href={project.deployedUrl}
