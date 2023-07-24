@@ -1,4 +1,5 @@
 import React from "react";
+import "../../assets/styles/aboutMe.css";
 import Image3 from "../../assets/images/PortfolioHeadshot.jpg";
 
 export default function AboutMe() {
