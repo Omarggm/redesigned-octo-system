@@ -1,0 +1,30 @@
+/* navbar.css */
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: #008080; /* Teal color */
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .navbarItem {
+    margin: 0;
+  }
+  
+  .nav-link {
+    color: #ffffff; /* White color for inactive links */
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+  }
+  
+  .nav-link:hover {
+    background-color: #005555; /* Slightly darker teal on hover */
+  }
+  
+  .nav-link.active {
+    background-color: #005555; /* Dark teal for the active link */
+    font-weight: bold;
+  }
+  
